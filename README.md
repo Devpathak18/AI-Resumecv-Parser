@@ -281,8 +281,8 @@ This is Project 4 in an ongoing AI automation series:
 | Project | What It Does | Link |
 |---|---|---|
 | AI Email Automation | Gmail → Gemini AI → Google Sheets → Telegram | [github.com/Devpathak18/email-ai-automation](https://github.com/Devpathak18/email-ai-automation) |
-| AI Research Pipeline | Any topic → Local LLM → 7-step guide → Google Docs | [github.com/Devpathak18/ai-research-pipeline](https://github.com/Devpathak18/ai-research-pipeline) |
-| AI Product Intelligence | CLIP-based reverse search + duplicate detection + recommendations | [github.com/Devpathak18/ai-product-intelligence-clip](https://github.com/Devpathak18/ai-product-intelligence-system) |
+| AI Research Pipeline | Any topic → Local LLM → 7-step guide → Google Docs | [github.com/Devpathak18/ai-research-automation](https://github.com/Devpathak18/ai-research-automation) |
+| AI Product Intelligence | CLIP-based reverse search + duplicate detection + recommendations | [github.com/Devpathak18/ai-product-intelligence-system](https://github.com/Devpathak18/ai-product-intelligence-system) |
 | **AI Resume Parser** | **Resume text → Gemini AI → structured data → Google Sheets** | **This repo** |
 
 ---
