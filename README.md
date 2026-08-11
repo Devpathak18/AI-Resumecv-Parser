@@ -4,7 +4,7 @@
 > **Powered by Google Gemini AI. Logs to Google Sheets automatically.**
 
 **Live demo:** [ai-resumecv-parser.netlify.app](https://ai-resumecv-parser.netlify.app)
-**Built by:** Dev Pathak · [linkedin.com/in/devpathak18](https://linkedin.com/in/devpathak18) · [pathaks.co.in](https://pathaks.co.in)
+**Built by:** Dev Pathak · [linkedin.com/in/devpathak18](https://linkedin.com/in/devpathak18) 
 
 ---
 
