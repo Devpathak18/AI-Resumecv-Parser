@@ -78,15 +78,15 @@ Gemini AI extracts **13 fields** from any resume:
 |---|---|---|
 | `name` | Full candidate name | Dev Pathak |
 | `email` | Email address | dev@email.com |
-| `phone` | Phone number | +91 7225816974 |
+| `phone` | Phone number | +91 ********** |
 | `location` | City and country | Bangalore, India |
 | `linkedin` | LinkedIn profile URL | linkedin.com/in/devpathak18 |
 | `github` | GitHub profile URL | github.com/Devpathak18 |
-| `portfolio` | Portfolio website | pathaks.co.in |
+| `portfolio` | Portfolio website | www.example.com |
 | `summary` | AI-written 2-3 sentence professional summary | Generated automatically |
 | `skills` | Array of skills | Python, SQL, Gemini AI, Make.com |
-| `experience` | Array of jobs with title, company, duration | AI Intern at Pinnacle Labs |
-| `education` | Array of degrees with institution and grade | B.Tech CSBS, Jain University, 8.00 CGPA |
+| `experience` | Array of jobs with title, company, duration | AI Intern at XYZ Company |
+| `education` | Array of degrees with institution and grade | B.Tech CSBS, Jain University |
 | `certifications` | Array of certs with issuer and date | Gemini for Google Cloud, Google, 2026 |
 | `projects` | Array of projects with description and link | AI Email Automation, github.com/... |
 
@@ -95,12 +95,12 @@ Gemini AI extracts **13 fields** from any resume:
 ```json
 {
   "name": "Dev Pathak",
-  "email": "devpathak2244@gmail.com",
-  "phone": "+91 7225816974",
+  "email": "devpathakpersonal@gmail.com",
+  "phone": "+91 **********",
   "location": "Bangalore, India",
   "linkedin": "linkedin.com/in/devpathak18",
   "github": "github.com/Devpathak18",
-  "portfolio": "pathaks.co.in",
+  "portfolio": "wwww.example.com",
   "summary": "B.Tech CSBS student at Jain University building AI automation systems independently. Has deployed 4 live AI projects including email automation, research pipelines, and computer vision systems.",
   "skills": ["Python", "Make.com", "Google Gemini AI", "PyTorch", "SQL", "JavaScript"],
   "experience": [
