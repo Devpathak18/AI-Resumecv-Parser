@@ -63,7 +63,7 @@ User pastes resume text
 ## Demo
 
 [![Watch the demo] <img width="4096" height="2304" alt="20260812_030645000_iOS" src="https://github.com/user-attachments/assets/873d144b-6f5f-44b6-842c-d2da1bd04653" />
-[(YOUR_LOOM_LINK)](https://www.loom.com/share/e58faf44b378481cb18fba305bbc2346)
+[https://www.loom.com/share/e58faf44b378481cb18fba305bbc2346]
 
 Click the image above to watch a 2-minute 
 walkthrough of the full pipeline running live.
